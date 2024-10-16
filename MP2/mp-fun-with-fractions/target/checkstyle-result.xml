@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="/home/alexande2/csc207/projects/MP2/mp-fun-with-fractions/src/main/java/edu/grinnell/csc207/main/QuickCalculator.java">
+<error line="51" severity="error" message="Line matches the illegal pattern &apos;System.out.println&apos;." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpCheck"/>
+</file>
+<file name="/home/alexande2/csc207/projects/MP2/mp-fun-with-fractions/src/main/java/edu/grinnell/csc207/main/InteractiveCalculator.java">
+<error line="67" severity="error" message="Line is longer than 100 characters (found 105)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="130" severity="error" message="Line is longer than 100 characters (found 108)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="152" severity="error" message="Line matches the illegal pattern &apos;System.out.println&apos;." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpCheck"/>
+</file>
+<file name="/home/alexande2/csc207/projects/MP2/mp-fun-with-fractions/src/main/java/edu/grinnell/csc207/util/BFCalculator.java">
+</file>
+<file name="/home/alexande2/csc207/projects/MP2/mp-fun-with-fractions/src/main/java/edu/grinnell/csc207/util/BigFraction.java">
+</file>
+<file name="/home/alexande2/csc207/projects/MP2/mp-fun-with-fractions/src/main/java/edu/grinnell/csc207/util/BFRegisterSet.java">
+</file>
+</checkstyle>
